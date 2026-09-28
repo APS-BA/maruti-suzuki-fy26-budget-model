@@ -57,8 +57,9 @@ single swing factor.
 FY26_Budget_Model.xlsx   14-sheet linked model: historicals, drivers, assumptions,
                          revenue and cost budgets, P&L, balance sheet, cash flow,
                          sensitivity, ratios, quarterly phasing, charts
-FY26_FPA_Report.docx     Full report: business overview, historical analysis,
+FY26_FPA_Report.pdf      Full 34-page report: business overview, historical analysis,
                          assumptions, budget build, sensitivity and recommendation
+FY26_FPA_Report.docx     Editable report
 ```
 
 All inputs come from the company's published consolidated results and public
